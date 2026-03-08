@@ -1,9 +1,9 @@
 # Background
 Species depend on specific environmental conditions to survive, making them vulnerable to habitat loss, degradation, and fragmentation driven by land use change. Habitat suitability models (HSMs) help address this challenge by linking species occurrences with environmental variables to map areas of potential habitat and guide conservation planning. This study focuses on Antrostomus vociferus (Eastern Whip-poor-will), a cryptic and nocturnal bird listed as threatened in Canada that has experienced a 35.2% population decline over the past 30 years. Traditional survey methods often fail to detect this species due to its nocturnal behavior and tendency to occur away from roads, making modeling approaches particularly valuable for understanding its habitat distribution. To estimate suitable habitat, this study compares two HSM approaches using the same occurrence and environmental datasets: a knowledge-driven Multi-Criteria Decision Analysis (MCDA) model and a data-driven Maximum Entropy (MaxEnt) model. MCDA integrates environmental variables based on expert-derived weightings, while MaxEnt uses machine learning to identify environmental conditions associated with known occurrences. By comparing these approaches, the study evaluates how expert knowledge and statistical inference differ in identifying suitable habitat and representing the ecological niche of A. vociferus.
 
-<img src="images/wpw.jpg" width="400">
+![Whip-poor-will being banded by GBLT staff](wpw.jpg)
 
-*Eastern Whip-poor-will being banded by GBLT staff.*
+
 
 ## Data and Methods
 ### Data
